@@ -1,0 +1,16 @@
+When distributing relief items, a queue is the fairer data structure.
+
+Why a Queue is Fair?
+
+A queue operates on a First-In, First-Out (FIFO) principle. 
+This means the first person to arrive is the first person to receive the items. 
+This is generally considered the fairest method for distribution because it rewards those who waited longest.
+ It prevents late arrivals from "cutting the line" and ensures that everyone is served in the order they came.
+This approach is transparent and minimizes conflicts.
+
+Why a Stack is Not Fair?
+
+A stack operates on a Last-In, First-Out (LIFO) principle. 
+If you used a stack for distribution, the last person to join the line would be the first person to receive items. 
+This is inherently unfair as it would encourage people to rush to the front of the line to get served,
+creating chaos and rewarding those who arrived last, while punishing those who waited the longest.

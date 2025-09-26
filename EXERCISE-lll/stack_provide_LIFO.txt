@@ -1,0 +1,15 @@
+STACK
+
+A stack provides Last-In, First-Out (LIFO) access because it's specifically designed that
+way—its core operations only allow access to one end of the data structure.
+Think of it not as a complex property but as a simple, strict rule. 
+You can't grab a plate from the middle of a stack; you can only add a new one to the top or take the top one off. 
+This fundamental constraint is what defines it.
+
+A stack is defined by two primary operations that enforce the LIFO principle
+
+Push: This operation adds a new item exclusively to the top of the stack.
+Pop: This operation removes an item exclusively from the top of the stack.
+Because all additions and removals happen at the same single point (the top), 
+the last item you push onto the stack is necessarily the first item you will pop off. 
+There is simply no operation to access data in the middle or at the bottom without first removing everything above it.

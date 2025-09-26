@@ -1,0 +1,22 @@
+FIFO (First-In, First-Out) ensures equality in aid distribution because it guarantees that 
+individuals are served based on the order of their arrival. 
+This principle is widely regarded as fair and equitable,
+as it rewards those who waited the longest and prevents any form of favoritism or "jumping the queue."
+
+FIFO is a simple concept: the first item to enter a queue is the first item to leave.
+2 In the context of aid distribution, this translates to:
+The first person to join the line is the first person to receive aid.3
+The second person in line is the second to receive aid, and so on.
+This system is inherently fair because it treats everyone equally based on a single, transparent metric: time of arrival.
+
+Why It Prevents Inequality
+Using a FIFO system for aid distribution prevents several common forms of inequality:
+Prevents Favoritism: It makes it impossible for aid workers to give preferential treatment to friends, 
+family, or people from a specific group. The line dictates the order, not personal connections.
+Discourages Chaos: It removes any incentive for people to push, shove, or fight their way to the front. 
+Knowing that the line is the only way to get aid encourages patience and order.
+Ensures a Transparent Process: Everyone can see the process in action. 
+The person at the front of the line is next to be served, making the distribution process transparent and predictable. 
+This builds trust and reduces conflict.
+In essence, by removing personal biases and external factors from the distribution process, 
+FIFO creates a level playing field where everyone has an equal opportunity to receive aid based solely on their effort to arrive and wait in line.
