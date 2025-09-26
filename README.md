@@ -1,1 +1,1 @@
-All assignmentson DATA STRUCTURE AND ARGORITHM
+All assignments on DATA STRUCTURE AND ARGORITHM
